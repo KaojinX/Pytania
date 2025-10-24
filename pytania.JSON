@@ -1,0 +1,26 @@
+{
+    "questions": [
+        {
+        "id": 1,
+        "question": "What is the capital of France?",
+        "options": [
+            "Berlin",
+            "Madrid",
+            "Paris",
+            "Rome"
+        ],
+        "answer": "Paris"
+        },
+                {
+        "id": 2,
+        "question": "What is the capital of UK?",
+        "options": [
+            "Berlin",
+            "Madrid",
+            "Paris",
+            "London"
+        ],
+        "answer": "London"
+        }
+    ]
+}

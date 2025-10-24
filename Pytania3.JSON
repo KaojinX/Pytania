@@ -1,0 +1,26 @@
+{
+    "questions": [
+        {
+        "id": 1,
+        "question": "Jebnac ci?",
+        "options": [
+            "Nie",
+            "Moze",
+            "Tak",
+            "Takn't"
+        ],
+        "answer": "Tak"
+        },
+                {
+        "id": 2,
+        "question": "A ci pu pu",
+        "options": [
+            "Nunu",
+            "Meme",
+            "Mari",
+            "Nono"
+        ],
+        "answer": "Nono"
+        }
+    ]
+}
