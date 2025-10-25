@@ -2,14 +2,14 @@
     "questions": [
         {
         "id": 1,
-        "question": "Jebnac ci?",
+        "question": "You heard that?",
         "options": [
-            "Nie",
-            "Moze",
-            "Tak",
-            "Takn't"
+            "No",
+            "Maybe",
+            "Yes",
+            "Yesn't"
         ],
-        "answer": "Tak"
+        "answer": "Yes"
         },
                 {
         "id": 2,
@@ -23,4 +23,5 @@
         "answer": "Nono"
         }
     ]
+
 }
