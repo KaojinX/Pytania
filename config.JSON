@@ -1,4 +1,9 @@
 {
-    "amounofquestions":0,
-    "needtopass":75
+    "config":
+        {
+        "amountofquestions":3,
+        "needtopass":75
+        }
+    
+
 }
