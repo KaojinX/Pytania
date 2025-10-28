@@ -1,6 +1,6 @@
 Quiz Python
 Opis
-
+ 
 Jest to prosty program do wykonywania testów w konsoli. Program umożliwia zadawanie pytań użytkownikowi i liczenie wyników. Jest skalowalny – można łatwo dodawać nowe zestawy pytań w formacie JSON, a program automatycznie je odczyta i włączy do testu.
 
 Program działa w pętli aż do momentu, gdy użytkownik odpowie na określoną liczbę pytań zdefiniowaną w pliku config.JSON. Na koniec oblicza wynik w procentach i zapisuje go do pliku tekstowego z nazwą użytkownika.
